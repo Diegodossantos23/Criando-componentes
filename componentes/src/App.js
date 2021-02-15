@@ -6,6 +6,7 @@ import styled from 'styled-components'
 
 const AppContainer = styled.div`
   background-color: #2A292E;
+  height:100vh;
   display: flex;
   justify-content: space-between;
   flex-direction: column;

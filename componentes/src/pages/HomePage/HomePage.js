@@ -8,9 +8,7 @@ const HomePage = () => {
         <Card/>
         <Card/>
         <Card/>
-        <Card/>
-        <Card/>
-        <Card/>
+        
     </HomeContainer>
   );
 }

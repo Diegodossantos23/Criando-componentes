@@ -1,10 +1,15 @@
 import React from 'react'
+import Card from "../../components/Card/Card"
+import { HomeContainer } from './StyledHome';
 
 const HomePage = () => {
   return (
-    <div>
-        HomePage
-    </div>
+    <HomeContainer>
+        <Card/>
+        <Card/>
+        <Card/>
+        
+    </HomeContainer>
   );
 }
 

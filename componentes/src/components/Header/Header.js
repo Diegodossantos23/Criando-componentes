@@ -1,10 +1,11 @@
 import React from 'react'
+import {HeaderContainer} from './StyledHeader'
 
 const Header = () => {
   return (
-    <div>
-        Header
-    </div>
+    <HeaderContainer>
+        Trabalhando com componentes
+    </HeaderContainer>
   );
 }
 
